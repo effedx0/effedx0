@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Efe Durgut</h1>
-<h3 align="center">A passionate Software Developer from Turkey</h3>
+<h3 align="center">A passionate Network Engineer candidate from Turkey</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=effedx0&label=Profile%20views&color=0e75b6&style=flat" alt="effedx0" /> </p>
 
