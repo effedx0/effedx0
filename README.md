@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 💬 Ask me about **HTML5,CSS,JavaScript,C++**
+- 💬 Ask me about **Python,C++,LAN,IP,WLAN**
 
 - 📫 How to reach me **efedurgut2@gmail.com**
 
